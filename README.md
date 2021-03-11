@@ -1,3 +1,5 @@
 # React-Routing Example
 
-Working example for `react-private-public-route` package [npm link](https://www.npmjs.com/package/react-private-public-route)
+Example for `react-private-public-route` package [npm link](https://www.npmjs.com/package/react-private-public-route)
+
+Live Example [Link](https://ronaksonigara.github.io/react-private-public-route-example/)
